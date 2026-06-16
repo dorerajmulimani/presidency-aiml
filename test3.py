@@ -1,5 +1,2 @@
-print("dore")
-print("raj") 
-
-
-print("rajesh")
+def myFunction():# This is function definition
+    print("Hello There")  
