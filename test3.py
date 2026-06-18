@@ -1,9 +1,4 @@
-def myFunction():# This is function definition
-    print("Hello There")
+def agree():
+    print("hello")
     
-    myFunction() # This is function call
-    
-    def myFunction():# This is function definition
-    return print("Hello There")  
-
-Mult(2, "Michael Jackson ")
+agree()
